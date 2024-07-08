@@ -3,9 +3,10 @@
 
 Key Skills:
 
-Python Programming
-Web Development (Flask, Django)
-Data Analysis (Pandas, NumPy)
-Project Management
-Teamwork and Collaboration
+* Python Programming
+* Web Development (Flask, Django)
+* Data Analysis (Pandas, NumPy)
+* Project Management
+* Teamwork and Collaboration
+
 I am enthusiastic about contributing to innovative software solutions and leveraging my technical skills to tackle challenging problems. Let's connect and collaborate on GitHub!
